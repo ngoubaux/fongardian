@@ -1,0 +1,1 @@
+Allows you to check yours fonera status
